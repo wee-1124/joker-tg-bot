@@ -45,13 +45,19 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <h3 align="center">
     ─「 ɴᴏᴛᴇ 」─
 </h3>
-- API_ID & API_HASH: `Register Telegram API in https://my.telegram.org/auth`
-- BOT_TOKEN: `Register New Telegram Bot in @BotFather`
-- USER_ID: `Add bot @userinfobot into Telegram Group`
-- CHAT_ID: `Add bot @getmyid_bot into Telegram Group`
-- StringSession: `Use generateStringSession.py to generate StringSession`
+
+- API_ID & API_HASH: 
+`Register Telegram API in https://my.telegram.org/auth`
+- BOT_TOKEN: 
+`Register New Telegram Bot in @BotFather`
+- USER_ID: 
+`Add bot @userinfobot into Telegram Group`
+- CHAT_ID: 
+`Add bot @getmyid_bot into Telegram Group`
+- StringSession: 
+`Use generateStringSession.py to generate StringSession`
 - create launch.json and create following code
-{
+`{
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
@@ -66,7 +72,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
             "justMyCode": false
         }
     ]
-}
+}`
 ━━━━━━━━━━━━━━━━━━━━
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ & [ᴀɴᴏɴʏᴍᴏᴜsX1025](https://github.com/TeamYukki/YukkiMusicBot)
