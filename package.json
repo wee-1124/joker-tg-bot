@@ -4,6 +4,9 @@
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
         },
         {
+            "url": "https://github.com/appositum/heroku-buildpack-youtube-dl.git"
+        },
+        {
             "url": "heroku/nodejs"
         },
         {
