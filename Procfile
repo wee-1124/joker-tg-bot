@@ -1,1 +1,1 @@
-python -m AnonXMusic
+bot:python -m AnonXMusic
