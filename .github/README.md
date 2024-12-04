@@ -56,7 +56,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 `Add bot @getmyid_bot into Telegram Group`
 - StringSession: 
 `Use generateStringSession.py to generate StringSession`
-- Create launch.json and add the following code
+- Create launch.json and add the following code:
 `{`
 `    // Use IntelliSense to learn about possible attributes.`
 `    // Hover to view descriptions of existing attributes.`
