@@ -4,13 +4,13 @@ from pyrogram import Client
 # Function to generate the session string
 def export_session_string():
     # Get API ID
-    API_ID = "28527900"
+    API_ID = "25177081"
 
     # Get API Hash
-    API_HASH = "e705d4ea9c9281c910f3f05cb99fa999"
+    API_HASH = "3864b3bf9d7898981e271e7932c436ac"
 
     # Get phone number
-    PHONE_NUMBER = "+6587988252"
+    PHONE_NUMBER = "+85577967351"
 
     SESSION_STRING = "my_session"
 
